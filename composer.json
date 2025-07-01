@@ -24,7 +24,7 @@
         "php": "^7.1 || ^8.1 || ^8.2",
         "ext-libxml": "*",
         "ext-simplexml": "*",
-        "ezsystems/ezplatform-graphql": "^1.0.4@dev"
+        "se7enxweb/ezplatform-graphql": "^1.0.4@dev"
     },
     "require-dev": {
         "ezsystems/ezplatform-code-style": "^0.1.0",
