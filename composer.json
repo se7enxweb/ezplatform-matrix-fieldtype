@@ -27,7 +27,7 @@
         "se7enxweb/ezplatform-graphql": "^1.0.4@dev"
     },
     "require-dev": {
-        "ezsystems/ezplatform-code-style": "^0.1.0",
+        "se7enxweb/ezplatform-code-style": "^0.1.0",
         "friendsofphp/php-cs-fixer": "^2.16.0",
         "phpunit/phpunit": "^6.4"
     },
