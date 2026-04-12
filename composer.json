@@ -15,6 +15,9 @@
             "EzSystems\\EzPlatformMatrixFieldtype\\": "src/lib/"
         }
     },
+    "replace": {
+        "ezsystems/ezplatform-matrix-fieldtype": "*"
+    },
     "autoload-dev": {
       "psr-4": {
         "EzSystems\\EzPlatformMatrixFieldtype\\Integration\\Tests\\": "tests/integration/"
